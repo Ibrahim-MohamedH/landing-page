@@ -27,15 +27,17 @@ Users should be able to:
 ### Screenshot
 
 - Desktop view: 1440px
-  ![](./assets/images/Screenshots.png)
+
+![](./assets/images/Screenshots.png)
 
 - Mobile view: 375px
-  ![](./assets/images/Mobile_screenshot.png)
+
+![](./assets/images/Mobile_screenshot.png)
 
 ### Links
 
-- Solution URL: [FrontendMentor](https://your-solution-url.com)
-- Live Site URL: [Landing page](https://Ibrahim-MohamedH.github.io/landing-page/)
+- Solution URL: [FrontendMentor](https://www.frontendmentor.io/solutions/landing-page-t7K3t4SOZb)
+- Live Site URL: [Landing page](https://ibrahim-mohamedh.github.io/landing-page/)
 
 ## My process
 
